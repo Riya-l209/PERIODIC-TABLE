@@ -1,0 +1,43 @@
+{
+    "elements": [
+      {
+        "atomicNumber": 1,
+        "symbol": "H",
+        "name": "Hydrogen",
+        "atomicMass": "1.008",
+        "category": "nonmetal",
+        "block": "s",
+        "electronConfiguration": "1s¹",
+        "group": 1,
+        "period": 1,
+        "phase": "gas",
+        "density": 0.00008988
+      },
+      {
+        "atomicNumber": 2,
+        "symbol": "He",
+        "name": "Helium",
+        "atomicMass": "4.002602",
+        "category": "noble gas",
+        "block": "s",
+        "electronConfiguration": "1s²",
+        "group": 18,
+        "period": 1,
+        "phase": "gas",
+        "density": 0.0001785
+      },
+      {
+        "atomicNumber": 3,
+        "symbol": "Li",
+        "name": "Lithium",
+        "atomicMass": "6.94",
+        "category": "alkali metal",
+        "block": "s",
+        "electronConfiguration": "[He] 2s¹",
+        "group": 1,
+        "period": 2,
+        "phase": "solid",
+        "density": 0.534
+      }
+    ]
+  }
